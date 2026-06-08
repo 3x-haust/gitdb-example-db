@@ -2,5 +2,9 @@
   {
     "id": "t1",
     "name": "Storage"
+  },
+  {
+    "id": "t2",
+    "name": "Runtime"
   }
 ]
