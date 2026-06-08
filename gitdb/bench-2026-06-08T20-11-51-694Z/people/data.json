@@ -8,5 +8,10 @@
     "id": "p1",
     "name": "Person 1",
     "team_id": "t1"
+  },
+  {
+    "id": "p2",
+    "name": "Person 2",
+    "team_id": "t2"
   }
 ]
