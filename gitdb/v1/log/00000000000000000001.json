@@ -1,0 +1,5 @@
+{
+  "at": "2026-06-08T23:32:39.843Z",
+  "sequence": 1,
+  "sql": "CREATE TABLE IF NOT EXISTS teams (id STRING, name STRING)"
+}
