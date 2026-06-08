@@ -1,0 +1,8 @@
+{
+  "columns": [
+    "id",
+    "name",
+    "team_id"
+  ],
+  "name": "people"
+}
