@@ -1,0 +1,5 @@
+{
+  "at": "2026-06-08T20:15:37.942Z",
+  "sequence": 4,
+  "sql": "INSERT INTO teams VALUES ('t1', 'Team 1')"
+}
