@@ -1,7 +1,9 @@
 {
   "version": 1,
-  "sequence": 0,
+  "sequence": 1,
   "createdAt": "2026-06-08T20:08:04.475Z",
-  "updatedAt": "2026-06-08T20:08:04.475Z",
-  "logSegments": []
+  "updatedAt": "2026-06-08T20:08:10.557Z",
+  "logSegments": [
+    "00000000000000000001"
+  ]
 }
