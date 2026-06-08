@@ -3,5 +3,10 @@
     "id": "p0",
     "name": "Person 0",
     "team_id": "t0"
+  },
+  {
+    "id": "p1",
+    "name": "Person 1",
+    "team_id": "t1"
   }
 ]
